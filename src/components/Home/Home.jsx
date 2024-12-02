@@ -5,7 +5,7 @@ const Home = () => {
     <div className="w-full font-Popins gap-5 flex flex-col items-center justify-center py-[4rem] md:px-[10rem] px-[2rem]">
       <div className="image-logo flex flex-col justify-center items-center">
         <img
-          className="w-[8rem] h-[8rem] md:w-[15rem] md:h-[15rem] object-cover rounded-full"
+          className="w-[10rem] h-[10rem] md:w-[15rem] md:h-[15rem] object-cover rounded-full"
           src="/images/myImage.jpg"
           alt="imageLogo"
         />
@@ -19,8 +19,8 @@ const Home = () => {
         <div className="text-[12px] mt-4 border-2 rounded-md p-2">
           <div className="">Hello! 👋</div>
           <div className="pb-4">
-            my name is hemant I am a music producer, mixing mastering engineer,
-            musician I have 5 years experience
+            my name is hemant I am a self taught music producer, mixing
+            mastering engineer, musician I have 5 years experience.
           </div>
           Music production is the art of having a vision for a song or group of
           songs and being able to execute that vision. As a recording and mix
