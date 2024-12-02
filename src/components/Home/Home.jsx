@@ -37,7 +37,7 @@ const Home = () => {
           {projectList.map((item) => {
             return (
               <a key={item.id} target="_blank" href={item.url}>
-                <div className="border-2 p-2 shadow-md rounded-md">
+                <div className="border-2 px-2 py-4 shadow-md rounded-md">
                   <img className="" src={item.image} alt="image" />
                   <h1 className="text-xl font-semibold py-[0.5rem]">
                     {item.title}
