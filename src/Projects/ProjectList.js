@@ -7,6 +7,13 @@ const projectList = [
     url: "https://youtu.be/sg5dkcY0yUg?si=bPoQ7891wQRYyWM1",
   },
   {
+    id: 11,
+    title: "WO KON THI",
+    views: "Story Click to",
+    image: "/images/VohKonThi.avif",
+    url: "https://youtu.be/PrQlWwpi5XY?si=TVHcwO5Cj2zobveH",
+  },
+  {
     id: 2,
     title: "Sun Is Going Low",
     views: "177K",
@@ -37,7 +44,7 @@ const projectList = [
   {
     id: 6,
     title: "Kaand",
-    views: "",
+    views: "Click to ",
     image: "/images/kaand.avif",
     url: "https://youtu.be/LFq86OxPZZo?si=SkCihep48KQwCh3M",
   },
